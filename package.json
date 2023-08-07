@@ -1,0 +1,29 @@
+{
+  "name": "keyprod_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "test": "jest",
+    "dev": "npm run build && nodemon --watch 'src/**/*.ts' --exec 'npm start'",
+    "test-dev": "npm run build && nodemon --watch 'src/**/*.ts' --exec 'npm test'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.4.8",
+    "jest": "^29.6.2",
+    "nodemon": "^3.0.1",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,22 @@
+# Directories
+node_modules/
+dist/
+.tool-versions
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# TypeScript build artifacts
+*.js
+*.js.map
+*.d.ts
+
+# Editor/IDE specific files
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
