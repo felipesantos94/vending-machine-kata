@@ -6,7 +6,7 @@ Node.js/TypeScript technical test for Keyprod.
 
 I've built this to follow Dependency Injection and Microservices principles within an MVC pattern.
 
-My initial plan was to build a static model, business service logic, and a controller layer to handle user requests from a simple Vue.js interface.
+My initial plan was to build a static model, business service logic and its routes for the controller layer to handle user requests from a simple Vue.js interface.
 
 - backend
   - routes
