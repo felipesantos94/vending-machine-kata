@@ -25,7 +25,7 @@ But here I'm focusing mainly on the models and services layer and TDD programmin
 
 1. Clone the repository:
    
-`git clone https://github.com/felipesantos94/mpg-test.git`
+`git clone git@github.com:felipesantos94/vending-machine-kata.git`
 
 `cd this-repo`
 
