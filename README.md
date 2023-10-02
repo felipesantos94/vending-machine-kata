@@ -1,6 +1,6 @@
 # Vending Machine Kata - Felipe Santos
 
-Node.js/TypeScript technical test for Keyprod.
+Node.js/TypeScript technical Kata.
 
 ## Important Notes
 
